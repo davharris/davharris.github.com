@@ -1,6 +1,6 @@
 # David J. Harris' home page
 
-I'm a fifth-year graduate student in the Population Biology Graduate Group at UC Davis. I build statistical models to try to learn why species live where they do and which species can coexist.  These models should be of interest to ecologists across a range of subdisciplines, from basic ecologists interested in understanding environmental filtering and species interactions, to applied ecologists interested in making predictions about the future ranges of species in novel environments.  An early version of this shared work won the Ecological Society of America’s 2012 E. C. Pielou award for best statistical presentation by a student.
+I'm a fifth-year graduate student in the Population Biology Graduate Group at UC Davis. I build statistical models to try to learn why species live where they do and which species can coexist.  These models should be of interest to ecologists across a range of subdisciplines, from basic ecologists interested in understanding environmental filtering and species interactions, to applied ecologists interested in making predictions about the future ranges of species in novel environments.  An early version of this work shared the Ecological Society of America’s 2012 E. C. Pielou award for best statistical presentation by a student.
 
 
 ## My CV as a PDF
