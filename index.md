@@ -7,6 +7,8 @@ I'm a fifth-year graduate student in the Population Biology Graduate Group at UC
 [CV](files/CV.pdf)
 
 ## Papers
+Predicting novel herbivore–plant interactions. IS Pearse, **DJ Harris**, R Karban and A Sih. *Oikos* 2013. [PDF](files/Pearse et al oikos.pdf)
+
 Occupancy is nine-tenths of the law: occupancy rates determine the homogenizing and differentiating effects of exotic species. **DJ Harris**, KG Smith, PJ Hanly. *The American Naturalist* 177 (4), 535-543. [PDF](files/Harris et al 2011.pdf)
 
 Evolution and behavioural responses to human‐induced rapid environmental change. A Sih, MCO Ferrari, **DJ Harris**. *Evolutionary Applications* 4 (2), 367-387. [PDF](files/Sih et al 2011.pdf)
