@@ -16,3 +16,9 @@ Evolution and behavioural responses to human‐induced rapid environmental chang
 Incorporating evolutionary principles into environmental management and policy. R Lankau, PS Jørgensen, **DJ Harris**, A Sih. *Evolutionary Applications* 4 (2), 315-325. [PDF](files/Lankau et al 2011.pdf)
 
 Reproductive consequences of male body mass and aggressiveness depend on females’ behavioral types. JN Pruitt, SE Riechert, **DJ Harris.** Behavioral Ecology and Sociobiology 65 (10), 1957-1966. 
+
+## Statistical tutorials
+
+[Maximum likelihood estimation](http://www.noamross.net/blog/2013/6/17/harrisbbmle.html).
+
+[Markov Chain Monte Carlo](https://github.com/davharris/mcmc-tutorial)
