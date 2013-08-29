@@ -21,4 +21,4 @@ Reproductive consequences of male body mass and aggressiveness depend on females
 
 [Maximum likelihood estimation](http://www.noamross.net/blog/2013/6/17/harrisbbmle.html).
 
-[Markov Chain Monte Carlo](https://github.com/davharris/mcmc-tutorial)
+[Markov Chain Monte Carlo](https://github.com/davharris/mcmc-tutorial/blob/master/readme.md)
