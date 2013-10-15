@@ -24,3 +24,11 @@ Reproductive consequences of male body mass and aggressiveness depend on females
 [Markov Chain Monte Carlo](https://github.com/davharris/mcmc-tutorial/blob/master/readme.md)
 
 [MaxEnt for presence-only species distribution modeling](http://figshare.com/articles/A_statistical_explanation_of_MaxEnt_for_ecologists/789029)
+
+## CrossValidated answers
+
+[Expectation maximization](http://stats.stackexchange.com/a/72800/4862)
+
+[Neural neworks](http://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute/63163#63163)
+
+[Advance Markov Chain Monte Carlo](http://stats.stackexchange.com/questions/46561/what-are-some-well-known-improvements-over-textbook-mcmc-algorithms-that-people/46567#46567)
