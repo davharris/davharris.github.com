@@ -31,4 +31,4 @@ Reproductive consequences of male body mass and aggressiveness depend on females
 
 [Neural neworks](http://stats.stackexchange.com/questions/63152/what-does-the-hidden-layer-in-a-neural-network-compute/63163#63163)
 
-[Advance Markov Chain Monte Carlo](http://stats.stackexchange.com/questions/46561/what-are-some-well-known-improvements-over-textbook-mcmc-algorithms-that-people/46567#46567)
+[Advanced Markov Chain Monte Carlo](http://stats.stackexchange.com/questions/46561/what-are-some-well-known-improvements-over-textbook-mcmc-algorithms-that-people/46567#46567)
