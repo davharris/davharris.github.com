@@ -9,17 +9,17 @@ I'm a fifth-year graduate student in the Population Biology Graduate Group at UC
 ## Papers
 Predicting novel herbivore–plant interactions. IS Pearse, **DJ Harris**, R Karban and A Sih. *Oikos* 2013. [**PDF**](files/pearse et al oikos.pdf)
 
-Occupancy is nine-tenths of the law: occupancy rates determine the homogenizing and differentiating effects of exotic species. **DJ Harris**, KG Smith, PJ Hanly. *The American Naturalist* 177 (4), 535-543. [**PDF**](files/Harris et al 2011.pdf)
+Occupancy is nine-tenths of the law: occupancy rates determine the homogenizing and differentiating effects of exotic species. **DJ Harris**, KG Smith, PJ Hanly. *The American Naturalist* 2011. [**PDF**](files/Harris et al 2011.pdf)
 
-Evolution and behavioural responses to human‐induced rapid environmental change. A Sih, MCO Ferrari, **DJ Harris**. *Evolutionary Applications* 4 (2), 367-387. [**PDF**](files/Sih et al 2011.pdf)
+Evolution and behavioural responses to human‐induced rapid environmental change. A Sih, MCO Ferrari, **DJ Harris**. *Evolutionary Applications* 2011. [**PDF**](files/Sih et al 2011.pdf)
 
-Incorporating evolutionary principles into environmental management and policy. R Lankau, PS Jørgensen, **DJ Harris**, A Sih. *Evolutionary Applications* 4 (2), 315-325. [**PDF**](files/Lankau et al 2011.pdf)
+Incorporating evolutionary principles into environmental management and policy. R Lankau, PS Jørgensen, **DJ Harris**, A Sih. *Evolutionary Applications* 2011. [**PDF**](files/Lankau et al 2011.pdf)
 
-Reproductive consequences of male body mass and aggressiveness depend on females’ behavioral types. JN Pruitt, SE Riechert, **DJ Harris.** Behavioral Ecology and Sociobiology 65 (10), 1957-1966. 
+Reproductive consequences of male body mass and aggressiveness depend on females’ behavioral types. JN Pruitt, SE Riechert, **DJ Harris.** Behavioral Ecology and Sociobiology 2011. 
 
 ## Statistical tutorials
 
-[Maximum likelihood estimation](http://www.noamross.net/blog/2013/6/17/harrisbbmle.html).
+[Maximum likelihood estimation](http://www.noamross.net/blog/2013/6/17/harrisbbmle.html)
 
 [Markov Chain Monte Carlo](https://github.com/davharris/mcmc-tutorial/blob/master/readme.md)
 
